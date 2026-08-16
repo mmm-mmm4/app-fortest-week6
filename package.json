@@ -1,6 +1,7 @@
 {
   "name": "app-fortest-week6",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,5 +12,7 @@
     "next": "16.3.0",
     "react": "19.2.8",
     "react-dom": "19.2.8"
+    "dotenv": "16.0.3"
+    "node-fatch": "3.3.1"
   }
 }
